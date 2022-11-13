@@ -6,12 +6,21 @@
 
 > KRNL
 
+## **Скрипт:**
+
+```lua
+_G.Bypass_kill_logs = false --true - включен обход логов, false - выключен (true может вызывать просадку фпс)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lyhir/RobloxScripts/main/hub.lua"))()
+```
+
 ## **Игры:** 
 1. `"Криминальная Россия РП By @misterYOY"` - https://www.roblox.com/games/5071544594
 2. `"_Новороссийск RP_ By @GrandX120120"` - https://www.roblox.com/games/8122544180
 
 ## **Обновление:** 
 `"Криминальная Россия РП By @misterYOY"` beta6:
+- [+] Фикс недозащиты
+
 - [+] Убить всех/Всех, кроме себя/Определённого игрока
 
 - [+] Поднять|Опустить руки всем/Всем, кроме себя/Определённому игроку
