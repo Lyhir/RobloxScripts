@@ -1,6 +1,10 @@
---by Lyhir#2748
---MIT License
+--[[
+Скрипт: 
 _G.Bypass_kill_logs = false --true - включен обход логов, false - выключен (true может вызывать просадку фпс)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lyhir/RobloxScripts/main/hub.lua"))()
+
+by Lyhir#2748
+MIT License]]
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
