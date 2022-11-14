@@ -9,7 +9,6 @@
 ## **Скрипт:**
 
 ```lua
-_G.Bypass_kill_logs = false --true - включен обход логов, false - выключен (true может вызывать просадку фпс)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Lyhir/RobloxScripts/main/hub.lua"))()
 ```
 
@@ -19,7 +18,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lyhir/RobloxScripts/m
 
 ## **Обновление:** 
 `"Криминальная Россия РП By @misterYOY"` beta6:
-- [+] Фикс недозащиты
+- [-] Анти кулдаун прыжка (они просто убрали его всем, нет смысла от этой функции)
+
+- [+] Включить/Выключить тим килл
+
+- [+] Фикс недозащиты 2.0
 
 - [+] Убить всех/Всех, кроме себя/Определённого игрока
 
@@ -30,8 +33,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Lyhir/RobloxScripts/m
 - [+] Сделать чёрный экран навсегда всем/Всем, кроме себя/Определённому игроку
 
 - [+] Выдать себе год мод
-
-- [+] Анти кулдаун прыжка
 
 - [+] Анти урон от падения
 
